@@ -43,17 +43,16 @@ namespace PersonnelAccountingClientApp.Classes.Personal
             PersonView person = new();
 
             person.Id = Id;
-            person.Function = Function;
             person.LastName = LastName;
             person.FirstName = FirstName;
             person.ThirdName = ThirdName;
-            person.Departament = Departament;
             person.DateOfBirth = DateOfBirth;
             person.Gender = Gender;
             person.UniqueDirector = UniqueDirector;
             person.UniqueLeader = UniqueLeader;
             person.UniqueControler = UniqueControler;
             person.UniqueWorker = UniqueWorker;
+            person.Function = Function;
 
             return person;
         }
