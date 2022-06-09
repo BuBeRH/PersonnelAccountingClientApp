@@ -1,2 +1,2 @@
 # PersonnelAccountingClientApp
-Для корректной работы приложения необходимо сначала запустить приложение PersonnelAccountingServer
+Для корректной работы приложения необходимо запустить приложение PersonnelAccountingServer на том же компьютере
